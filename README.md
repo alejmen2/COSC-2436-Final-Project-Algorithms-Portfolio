@@ -1,7 +1,5 @@
 # COSC-2436-Final-Project-Algorithms-Portfolio
 
-# COSC 2436 - Algorithms Portfolio
-
 A semester-long collection of 12 chapter labs covering data structures and
 algorithms in Python. Each chapter folder contains the working program files
 plus a written lab report.
