@@ -6,12 +6,12 @@ plus a written lab report.
 
 ## Author
 
-[Your Name] - COSC 2436, [Semester Year]
+Alejandro Mendoza - COSC 2436, 2026-27
 
 ## Description
 
-[2-3 sentences describing what the portfolio covers and your goals for the
-semester.]
+This portfolio covers all the things that I have learned during this class and the knowledge that I will be taking with me towards the future. Everything that
+is written is a lesson learned and a concept mastered, it is an accumulation of all of my learning this semester.
 
 ## Repository Structure
 
@@ -51,4 +51,4 @@ and run the main file:
 ## Course
 
 COSC 2436 - Programming Fundamentals III (Data Structures and Algorithms),
-[Semester Year], based on *Grokking Algorithms* by Aditya Bhargava.
+[2026-27], based on *Grokking Algorithms* by Aditya Bhargava.
